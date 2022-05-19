@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JiraPerformance", "JiraPerformance.csproj", "{474D1CB5-941A-4742-925C-27B95FAE4AFD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JiraPerformanceAPI", "..\JiraPerformanceAPI\JiraPerformanceAPI.csproj", "{870A4B35-8F99-4A4C-A2C7-12881F5E75E1}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{474D1CB5-941A-4742-925C-27B95FAE4AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{474D1CB5-941A-4742-925C-27B95FAE4AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{474D1CB5-941A-4742-925C-27B95FAE4AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{474D1CB5-941A-4742-925C-27B95FAE4AFD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{870A4B35-8F99-4A4C-A2C7-12881F5E75E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{870A4B35-8F99-4A4C-A2C7-12881F5E75E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{870A4B35-8F99-4A4C-A2C7-12881F5E75E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
